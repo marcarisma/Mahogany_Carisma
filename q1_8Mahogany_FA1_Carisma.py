@@ -12,7 +12,7 @@ subtract_x = (x2 - x1)
 subtract_y = (y2 - y1)
 
 
-#powers both the coordinates
+#raises to the power of two to of both the coordinates
 power_x = pow(subtract_x,2)
 power_y = pow(subtract_y,2)
 
@@ -23,5 +23,5 @@ addition = power_x + power_y
 #it square root the coordinate
 x= math.sqrt = (addition)
 
-#prints to ge the distance
+#prints to get the distance
 print ("the distance between the two point is" ,x)
