@@ -8,7 +8,7 @@ Calculates for the distance between two points.
 
 First, you must get the file for the code. Second once your in VS code, open a new folder and click the file. Lastly just click the play button
 
-## The variables needed
+## The Input Needed
 
 The user must enter the coordinates of two points. It is represented by x1, y1, x2, and y2.
 
